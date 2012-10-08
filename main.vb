@@ -6,7 +6,7 @@ Public Class main
 
     Public Version As String = "0.0.0"
 
-    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+    Private Sub main_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
         Dim p As New Process 'Verification si déjà lancé
         Try
@@ -37,6 +37,24 @@ Public Class main
         Catch ex As Exception
             MsgBox("Impossible de vérifier les mise à jour : " & ex.Message, MsgBoxStyle.Critical)
         End Try
+
+    End Sub
+
+    Private Sub BT_openOFD_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BT_openOFD.Click
+
+        Dim selectedFile As String = String.Empty
+
+        OFD_src.ShowDialog()
+        selectedFile = OFD_src.FileName
+        If selectedFile IsNot Nothing Then
+            TB_src.Text = selectedFile
+        End If
+
+    End Sub
+
+    Private Sub BT_Install_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BT_Install.Click
+
+        ' A FAIRE
 
     End Sub
 
