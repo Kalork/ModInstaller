@@ -1,0 +1,11 @@
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\bin\Debug\ModInstaller.exe
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\bin\Debug\ModInstaller.pdb
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\bin\Debug\ModInstaller.xml
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ModInstaller.main.resources
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ModInstaller.Resources.resources
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ModInstaller.exe
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ModInstaller.xml
+C:\Users\Kalork\Desktop\GitHub\ModInstaller\obj\x86\Debug\ModInstaller.pdb
