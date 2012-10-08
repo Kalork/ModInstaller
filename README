@@ -1,3 +1,5 @@
 ModInstaller est un logiciel permettant d'installer automatiquement ses Mods pour Minecraft.
 Il fonctionne grace a un fichier de commandes. Le logiciel détectera ces commandes dans un fichier nommé "MOD_X.mi". Chaque fichier .mi sera propre a un addon.
 ModInstaller pourra télécharger les fichiers du mod, l'installer automatiquement*, et possédera une interface de gestion des mods installés.
+
+Programmé en VB.NET
